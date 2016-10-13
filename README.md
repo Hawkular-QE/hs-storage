@@ -1,7 +1,7 @@
 # About
 Hawkular Services storage optimized for testing in OpenShift
 
-The following enviroment variables can be override:
+The following enviroment variables can be overriden:
 ```
 MAX_HEAP_SIZE
 HEAP_NEW_SIZE
